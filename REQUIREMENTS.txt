@@ -1,0 +1,9 @@
+pandas<3
+pandas-datareader>=0.10
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl
+yfinance
+jupyter
